@@ -1,0 +1,51 @@
+16:22:52 	内存:10.13\11.83 	分页:4.89\6.62	>>> ET product in generated  
+16:22:52 	内存:35.63\35.63 	分页:30.29\30.29	>>> Scit: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\SCIT/201806260024.dat  
+16:42:00 	内存:7.53\35.99 	分页:2.31\30.85	>>> SCIT product in generated  
+16:48:27 	内存:35.57\35.57 	分页:30.24\30.25	>>> Scit: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\SCIT/201806260048.dat  
+16:48:27 	内存:35.57\35.57 	分页:30.24\30.25	>>> SCIT product in generated  
+17:01:10 	内存:7.52\35.99 	分页:2.30\30.85	>>> Cr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\CR/201806260100.dat  
+17:13:56 	内存:35.44\35.44 	分页:30.10\30.10	>>> SCIT product in generated  
+17:26:39 	内存:7.52\35.99 	分页:2.31\30.85	>>> Cr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\CR/201806260124.dat  
+17:33:01 	内存:12.41\15.87 	分页:6.71\10.16	>>> Qpr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\QPR/201806260130.dat  
+17:58:44 	内存:7.53\36.00 	分页:2.30\30.85	>>> SCIT product in generated  
+17:58:48 	内存:12.45\15.90 	分页:6.70\10.16	>>> Qpr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\QPR/201806260154.dat  
+17:58:48 	内存:35.38\35.38 	分页:30.03\30.04	>>> SCIT product in generated  
+18:05:12 	内存:12.46\15.88 	分页:6.70\10.19	>>> Qpr: Success to output temp data  
+18:11:43 	内存:10.13\11.84 	分页:4.89\6.63	>>> ET product in generated  
+18:18:07 	内存:35.49\35.49 	分页:30.21\30.21	>>> Scit: Alg running for seconds: 0  
+18:18:07 	内存:35.50\35.50 	分页:30.21\30.21	>>> SCIT product in generated  
+18:44:48 	内存:7.52\35.98 	分页:2.30\30.85	>>> SCIT product in generated  
+18:44:49 	内存:8.40\10.11 	分页:3.17\4.90	>>> Et: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\ET/201806260236.dat  
+18:44:50 	内存:35.41\35.41 	分页:30.07\30.07	>>> Scit: Alg running for seconds: 0  
+18:44:50 	内存:35.42\35.42 	分页:30.07\30.07	>>> Scit: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\SCIT/201806260236.dat  
+18:44:50 	内存:35.42\35.42 	分页:30.07\30.07	>>> SCIT product in generated  
+19:01:41 	内存:7.52\35.99 	分页:2.31\30.85	>>> SCIT product in generated  
+19:01:43 	内存:35.43\35.43 	分页:30.10\30.11	>>> Scit: Alg running for seconds: 0  
+19:01:43 	内存:35.45\35.45 	分页:30.10\30.11	>>> SCIT product in generated  
+19:10:02 	内存:10.13\11.84 	分页:4.89\6.62	>>> Vil: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\VIL/201806260254.dat  
+19:10:02 	内存:35.42\35.42 	分页:30.08\30.09	>>> Scit: Alg running for seconds: 0  
+19:18:16 	内存:8.40\10.11 	分页:3.17\4.90	>>> Et: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\ET/201806260300.dat  
+19:18:17 	内存:8.04\11.88 	分页:2.38\6.63	>>> Hsr: Success to output temp data  
+19:18:17 	内存:64.28\64.30 	分页:58.61\58.67	>>> Qpa: Success to output temp data  
+19:26:39 	内存:7.52\35.99 	分页:2.30\30.85	>>> SCIT product in generated  
+19:26:40 	内存:8.04\11.88 	分页:2.38\6.63	>>> Hsr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\HSR/201806260306.dat  
+19:35:06 	内存:7.53\35.99 	分页:2.30\30.85	>>> SCIT product in generated  
+19:35:06 	内存:10.13\11.83 	分页:4.90\6.63	>>> ET product in generated  
+19:51:49 	内存:35.48\35.48 	分页:30.15\30.15	>>> Scit: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\SCIT/201806260324.dat  
+19:51:49 	内存:35.48\35.48 	分页:30.15\30.15	>>> SCIT product in generated  
+20:16:52 	内存:8.41\10.12 	分页:3.16\4.89	>>> Et: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\ET/201806260342.dat  
+20:33:32 	内存:8.04\11.89 	分页:2.38\6.63	>>> Hsr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\HSR/201806260354.dat  
+20:50:18 	内存:35.62\35.62 	分页:30.33\30.33	>>> Scit: Alg running for seconds: 0  
+21:31:41 	内存:7.52\35.99 	分页:2.31\30.85	>>> Cr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\CR/201806260436.dat  
+21:40:03 	内存:12.44\15.88 	分页:6.70\10.21	>>> Qpr: Success to output temp data  
+22:21:30 	内存:7.52\35.99 	分页:2.30\30.85	>>> SCIT product in generated  
+22:46:17 	内存:10.12\11.83 	分页:4.89\6.63	>>> Vil: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\VIL/201806260530.dat  
+22:46:18 	内存:12.46\15.91 	分页:6.72\10.18	>>> Qpr: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\QPR/201806260530.dat  
+22:54:31 	内存:7.52\35.99 	分页:2.31\30.85	>>> SCIT product in generated  
+23:02:46 	内存:8.40\10.11 	分页:3.17\4.90	>>> Et: Success to output product of local format-O:\Gongfu-20180626-HuaBei\prod\ET/201806260542.dat  
+23:02:46 	内存:8.40\10.11 	分页:3.17\4.90	>>> ET product in generated  
+23:11:03 	内存:35.80\35.81 	分页:30.47\30.59	>>> Scit: Alg running for seconds: 0  
+23:27:39 	内存:7.52\35.98 	分页:2.31\30.85	>>> SCIT product in generated  
+23:27:40 	内存:10.13\11.84 	分页:4.89\6.62	>>> ET product in generated  
+23:35:55 	内存:8.06\11.91 	分页:2.38\6.63	>>> Hsr: Success to output temp data  
+23:52:27 	内存:7.53\35.99 	分页:2.31\30.85	>>> SCIT product in generated  

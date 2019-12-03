@@ -1,0 +1,21 @@
+00:19:13 	内存:28.04\28.05 	分页:22.75\22.75	>>> Scit: Alg running for seconds: 0  
+00:38:16 	内存:7.41\26.59 	分页:2.17\21.40	>>> Cr: Fail to create path for local format product   
+01:45:07 	内存:9.63\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+01:54:38 	内存:7.41\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+02:04:11 	内存:8.16\9.62 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+02:32:44 	内存:7.41\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+02:50:41 	内存:8.15\9.61 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+03:38:22 	内存:7.39\26.58 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+03:56:15 	内存:7.41\26.59 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+06:00:00 	内存:7.40\26.59 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+06:36:49 	内存:7.42\26.60 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+07:53:11 	内存:8.15\9.61 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+12:30:07 	内存:27.69\27.69 	分页:22.41\22.41	>>> Hsr: Fail to create path for local format product   
+14:29:28 	内存:7.41\26.59 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+15:14:53 	内存:27.32\27.32 	分页:21.97\21.98	>>> Scit: Alg running for seconds: 0  
+16:02:54 	内存:27.18\27.22 	分页:21.93\21.96	>>> Hsr: Fail to create path for local format product   
+16:22:03 	内存:27.06\27.06 	分页:21.67\21.87	>>> Scit: Alg running for seconds: 0  
+18:26:23 	内存:7.41\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+18:55:04 	内存:9.62\11.09 	分页:4.38\5.85	>>> Vil: Fail to create path for local format product   
+22:54:15 	内存:7.40\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+23:03:53 	内存:26.22\26.22 	分页:20.84\20.84	>>> Scit: Alg running for seconds: 0  

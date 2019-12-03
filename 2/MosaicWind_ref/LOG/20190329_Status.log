@@ -1,0 +1,559 @@
+17:48:43 >>> Load task:TaskSysMonitor
+17:48:43 >>> Load task:TaskRealTimeSearch
+17:48:43 >>> Load task:TaskMosaicTimer
+17:48:43 >>> Load task:TaskArchiveDataProc
+17:48:43 >>> Load task:TaskBaseDataQCPro
+17:48:43 >>> Load task:TaskVSToCartesain
+17:48:43 >>> Load task:TaskMultiSiteMosaic
+17:48:43 >>> Load task:MosaicDerivedProdProc
+17:49:36 >>> Exit the program.
+17:49:40 >>> Load task:TaskSysMonitor
+17:49:40 >>> Load task:TaskRealTimeSearch
+17:49:40 >>> Load task:TaskMosaicTimer
+17:49:40 >>> Load task:TaskArchiveDataProc
+17:49:40 >>> Load task:TaskBaseDataQCPro
+17:49:40 >>> Load task:TaskVSToCartesain
+17:49:40 >>> Load task:TaskMultiSiteMosaic
+17:49:40 >>> Load task:MosaicDerivedProdProc
+17:49:47 >>> Exit the program.
+17:49:50 >>> Load task:TaskSysMonitor
+17:49:50 >>> Load task:TaskRealTimeSearch
+17:49:50 >>> Load task:TaskMosaicTimer
+17:49:50 >>> Load task:TaskArchiveDataProc
+17:49:50 >>> Load task:TaskBaseDataQCPro
+17:49:50 >>> Load task:TaskVSToCartesain
+17:49:50 >>> Load task:TaskMultiSiteMosaic
+17:49:50 >>> Load task:MosaicDerivedProdProc
+17:49:57 >>> Start no-realtime operation
+17:49:57 >>> Run ID: 0, BaseData QC Receive msg
+17:49:57 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814000600_O_DOR_CB_CAP.bin.bz2
+17:49:59 >>> Run ID: 0, Vs to Cart Receive msg
+17:49:59 >>> Run ID: 0, BaseData QC Receive msg
+17:49:59 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:06
+17:49:59 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814000600_O_DOR_CB_CAP.bin.bz2
+17:50:34 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:06
+17:50:37 >>> Run ID: 0, Mosaic Timer Receive msg
+17:50:37 >>> Run ID: 0, Vs to Cart Receive msg
+17:50:37 >>> Run ID: 0, BaseData QC Receive msg
+17:50:37 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:06
+17:50:37 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814000600_O_DOR_SA_CAP.bin.bz2
+17:51:11 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:06
+17:51:15 >>> Run ID: 0, Mosaic Timer Receive msg
+17:51:15 >>> Run ID: 0, Vs to Cart Receive msg
+17:51:15 >>> Run ID: 0, BaseData QC Receive msg
+17:51:15 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:06
+17:51:15 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814000600_O_DOR_SA_CAP.bin.bz2
+17:51:49 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:06
+17:51:53 >>> Run ID: 0, Mosaic Timer Receive msg
+17:51:53 >>> Run ID: 0, Vs to Cart Receive msg
+17:51:53 >>> Run ID: 0, BaseData QC Receive msg
+17:51:53 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:06
+17:51:53 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814000600_O_DOR_SA_CAP.bin.bz2
+17:52:26 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:06
+17:52:30 >>> Run ID: 0, Mosaic Timer Receive msg
+17:52:30 >>> Run ID: 0, Vs to Cart Receive msg
+17:52:30 >>> Run ID: 0, BaseData QC Receive msg
+17:52:30 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:06
+17:52:30 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814000600_O_DOR_SA_CAP.bin.bz2
+17:53:04 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:06
+17:53:08 >>> Run ID: 0, Mosaic Timer Receive msg
+17:53:08 >>> Run ID: 0, Vs to Cart Receive msg
+17:53:08 >>> Run ID: 0, BaseData QC Receive msg
+17:53:08 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:06
+17:53:08 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814000600_O_DOR_SA_CAP.bin.bz2
+17:53:42 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:06
+17:53:45 >>> Run ID: 0, Mosaic Timer Receive msg
+17:53:45 >>> Run ID: 0, Vs to Cart Receive msg
+17:53:45 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:06
+17:54:19 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:06
+17:54:23 >>> Run ID: 0, Mosaic Timer Receive msg
+17:54:23 >>> Run ID: 0, Start Mosaic !!!!
+17:54:23 >>> Number of files for this mosaic time 6(min)=7
+17:54:23 >>> Startup wind retrieval module by calling the applicaion!
+17:54:49 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140006.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+17:54:56 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140006.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+17:55:04 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140006.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+17:59:34 >>> Exit the program.
+18:00:00 >>> Load task:TaskSysMonitor
+18:00:00 >>> Load task:TaskRealTimeSearch
+18:00:00 >>> Load task:TaskMosaicTimer
+18:00:00 >>> Load task:TaskArchiveDataProc
+18:00:00 >>> Load task:TaskBaseDataQCPro
+18:00:00 >>> Load task:TaskVSToCartesain
+18:00:00 >>> Load task:TaskMultiSiteMosaic
+18:00:00 >>> Load task:MosaicDerivedProdProc
+18:00:26 >>> Exit the program.
+18:00:30 >>> Load task:TaskSysMonitor
+18:00:30 >>> Load task:TaskRealTimeSearch
+18:00:30 >>> Load task:TaskMosaicTimer
+18:00:30 >>> Load task:TaskArchiveDataProc
+18:00:30 >>> Load task:TaskBaseDataQCPro
+18:00:30 >>> Load task:TaskVSToCartesain
+18:00:30 >>> Load task:TaskMultiSiteMosaic
+18:00:30 >>> Load task:MosaicDerivedProdProc
+18:00:44 >>> Exit the program.
+18:01:27 >>> Load task:TaskSysMonitor
+18:01:27 >>> Load task:TaskRealTimeSearch
+18:01:27 >>> Load task:TaskMosaicTimer
+18:01:27 >>> Load task:TaskArchiveDataProc
+18:01:27 >>> Load task:TaskBaseDataQCPro
+18:01:27 >>> Load task:TaskVSToCartesain
+18:01:27 >>> Load task:TaskMultiSiteMosaic
+18:01:27 >>> Load task:MosaicDerivedProdProc
+18:01:48 >>> Exit the program.
+18:03:47 >>> Load task:TaskSysMonitor
+18:03:47 >>> Load task:TaskRealTimeSearch
+18:03:47 >>> Load task:TaskMosaicTimer
+18:03:47 >>> Load task:TaskArchiveDataProc
+18:03:47 >>> Load task:TaskBaseDataQCPro
+18:03:47 >>> Load task:TaskVSToCartesain
+18:03:47 >>> Load task:TaskMultiSiteMosaic
+18:03:47 >>> Load task:MosaicDerivedProdProc
+18:06:04 >>> Start no-realtime operation
+18:06:04 >>> Run ID: 0, BaseData QC Receive msg
+18:06:04 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814000600_O_DOR_CB_CAP.bin.bz2
+18:06:05 >>> Run ID: 0, Vs to Cart Receive msg
+18:06:05 >>> Run ID: 0, BaseData QC Receive msg
+18:06:05 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:06
+18:06:05 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814000600_O_DOR_CB_CAP.bin.bz2
+18:06:40 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:06
+18:06:44 >>> Run ID: 0, Mosaic Timer Receive msg
+18:06:44 >>> Run ID: 0, Vs to Cart Receive msg
+18:06:44 >>> Run ID: 0, BaseData QC Receive msg
+18:06:44 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:06
+18:06:44 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:07:18 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:06
+18:07:22 >>> Run ID: 0, Mosaic Timer Receive msg
+18:07:22 >>> Run ID: 0, Vs to Cart Receive msg
+18:07:22 >>> Run ID: 0, BaseData QC Receive msg
+18:07:22 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:06
+18:07:22 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:08:44 >>> Load task:TaskSysMonitor
+18:08:44 >>> Load task:TaskRealTimeSearch
+18:08:44 >>> Load task:TaskMosaicTimer
+18:08:44 >>> Load task:TaskArchiveDataProc
+18:08:44 >>> Load task:TaskBaseDataQCPro
+18:08:44 >>> Load task:TaskVSToCartesain
+18:08:44 >>> Load task:TaskMultiSiteMosaic
+18:08:44 >>> Load task:MosaicDerivedProdProc
+18:09:05 >>> Start no-realtime operation
+18:09:05 >>> Run ID: 0, BaseData QC Receive msg
+18:09:05 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814000600_O_DOR_CB_CAP.bin.bz2
+18:09:07 >>> Run ID: 0, Vs to Cart Receive msg
+18:09:07 >>> Run ID: 0, BaseData QC Receive msg
+18:09:07 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:06
+18:09:07 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814000600_O_DOR_CB_CAP.bin.bz2
+18:09:45 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:06
+18:09:49 >>> Run ID: 0, Mosaic Timer Receive msg
+18:09:49 >>> Run ID: 0, Vs to Cart Receive msg
+18:09:49 >>> Run ID: 0, BaseData QC Receive msg
+18:09:49 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:06
+18:09:49 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:10:23 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:06
+18:10:26 >>> Run ID: 0, Mosaic Timer Receive msg
+18:10:26 >>> Run ID: 0, Vs to Cart Receive msg
+18:10:26 >>> Run ID: 0, BaseData QC Receive msg
+18:10:26 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:06
+18:10:26 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:11:00 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:06
+18:11:04 >>> Run ID: 0, Mosaic Timer Receive msg
+18:11:04 >>> Run ID: 0, Vs to Cart Receive msg
+18:11:04 >>> Run ID: 0, BaseData QC Receive msg
+18:11:04 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:06
+18:11:04 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:11:38 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:06
+18:11:42 >>> Run ID: 0, Mosaic Timer Receive msg
+18:11:42 >>> Run ID: 0, Vs to Cart Receive msg
+18:11:42 >>> Run ID: 0, BaseData QC Receive msg
+18:11:42 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:06
+18:11:42 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:12:16 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:06
+18:12:20 >>> Run ID: 0, Mosaic Timer Receive msg
+18:12:20 >>> Run ID: 0, Vs to Cart Receive msg
+18:12:20 >>> Run ID: 0, BaseData QC Receive msg
+18:12:20 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:06
+18:12:20 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814000600_O_DOR_SA_CAP.bin.bz2
+18:12:54 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:06
+18:12:57 >>> Run ID: 0, Mosaic Timer Receive msg
+18:12:57 >>> Run ID: 0, Vs to Cart Receive msg
+18:12:57 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:06
+18:13:31 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:06
+18:13:35 >>> Run ID: 0, Mosaic Timer Receive msg
+18:13:35 >>> Run ID: 0, Start Mosaic !!!!
+18:13:35 >>> Number of files for this mosaic time 6(min)=7
+18:13:35 >>> Startup wind retrieval module by calling the applicaion!
+18:13:35 >>> Run ID: 1, BaseData QC Receive msg
+18:13:35 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814001200_O_DOR_SA_CAP.bin.bz2
+18:13:36 >>> Run ID: 1, Vs to Cart Receive msg
+18:13:36 >>> Run ID: 1, BaseData QC Receive msg
+18:13:36 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:12
+18:13:36 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814001200_O_DOR_SA_CAP.bin.bz2
+18:13:37 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140006.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:13:37 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140006.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:13:37 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140006.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:14:13 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:12
+18:14:17 >>> Run ID: 1, Mosaic Timer Receive msg
+18:14:17 >>> Run ID: 1, Vs to Cart Receive msg
+18:14:17 >>> Run ID: 1, BaseData QC Receive msg
+18:14:17 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:12
+18:14:17 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814001200_O_DOR_SA_CAP.bin.bz2
+18:14:51 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:12
+18:14:55 >>> Run ID: 1, Mosaic Timer Receive msg
+18:14:55 >>> Run ID: 1, Vs to Cart Receive msg
+18:14:55 >>> Run ID: 1, BaseData QC Receive msg
+18:14:55 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:12
+18:14:55 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814001200_O_DOR_SA_CAP.bin.bz2
+18:15:29 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:12
+18:15:32 >>> Run ID: 1, Mosaic Timer Receive msg
+18:15:32 >>> Run ID: 1, Vs to Cart Receive msg
+18:15:32 >>> Run ID: 1, BaseData QC Receive msg
+18:15:32 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:12
+18:15:32 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814001200_O_DOR_CB_CAP.bin.bz2
+18:16:06 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:12
+18:16:10 >>> Run ID: 1, Mosaic Timer Receive msg
+18:16:10 >>> Run ID: 1, Vs to Cart Receive msg
+18:16:10 >>> Run ID: 1, BaseData QC Receive msg
+18:16:10 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:12
+18:16:10 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814001200_O_DOR_SA_CAP.bin.bz2
+18:16:43 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:12
+18:16:47 >>> Run ID: 1, Mosaic Timer Receive msg
+18:16:47 >>> Run ID: 1, Vs to Cart Receive msg
+18:16:47 >>> Run ID: 1, BaseData QC Receive msg
+18:16:47 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:12
+18:16:47 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814001200_O_DOR_CB_CAP.bin.bz2
+18:17:21 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:12
+18:17:24 >>> Run ID: 1, Mosaic Timer Receive msg
+18:17:24 >>> Run ID: 1, Vs to Cart Receive msg
+18:17:24 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:12
+18:17:58 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:12
+18:18:02 >>> Run ID: 1, Mosaic Timer Receive msg
+18:18:02 >>> Run ID: 1, Start Mosaic !!!!
+18:18:02 >>> Number of files for this mosaic time 12(min)=7
+18:18:02 >>> Startup wind retrieval module by calling the applicaion!
+18:18:02 >>> Run ID: 2, BaseData QC Receive msg
+18:18:02 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814001800_O_DOR_SA_CAP.bin.bz2
+18:18:03 >>> Run ID: 2, Vs to Cart Receive msg
+18:18:03 >>> Run ID: 2, BaseData QC Receive msg
+18:18:03 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:18
+18:18:03 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814001800_O_DOR_SA_CAP.bin.bz2
+18:18:04 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140012.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:18:04 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140012.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:18:04 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140012.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:18:43 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:18
+18:18:47 >>> Run ID: 2, Mosaic Timer Receive msg
+18:18:47 >>> Run ID: 2, Vs to Cart Receive msg
+18:18:47 >>> Run ID: 2, BaseData QC Receive msg
+18:18:47 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:18
+18:18:47 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814001800_O_DOR_SA_CAP.bin.bz2
+18:19:21 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:18
+18:19:25 >>> Run ID: 2, Mosaic Timer Receive msg
+18:19:25 >>> Run ID: 2, Vs to Cart Receive msg
+18:19:25 >>> Run ID: 2, BaseData QC Receive msg
+18:19:25 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:18
+18:19:25 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814001800_O_DOR_CB_CAP.bin.bz2
+18:19:59 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:18
+18:20:03 >>> Run ID: 2, Mosaic Timer Receive msg
+18:20:03 >>> Run ID: 2, Vs to Cart Receive msg
+18:20:03 >>> Run ID: 2, BaseData QC Receive msg
+18:20:03 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:18
+18:20:03 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814001800_O_DOR_CB_CAP.bin.bz2
+18:20:37 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:18
+18:20:40 >>> Run ID: 2, Mosaic Timer Receive msg
+18:20:40 >>> Run ID: 2, Vs to Cart Receive msg
+18:20:40 >>> Run ID: 2, BaseData QC Receive msg
+18:20:40 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:18
+18:20:40 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814001800_O_DOR_SA_CAP.bin.bz2
+18:21:15 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:18
+18:21:18 >>> Run ID: 2, Mosaic Timer Receive msg
+18:21:18 >>> Run ID: 2, Vs to Cart Receive msg
+18:21:18 >>> Run ID: 2, BaseData QC Receive msg
+18:21:18 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:18
+18:21:18 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814001800_O_DOR_SA_CAP.bin.bz2
+18:21:53 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:18
+18:21:56 >>> Run ID: 2, Mosaic Timer Receive msg
+18:21:56 >>> Run ID: 2, Vs to Cart Receive msg
+18:21:56 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:18
+18:22:31 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:18
+18:22:35 >>> Run ID: 2, Start Mosaic !!!!
+18:22:35 >>> Number of files for this mosaic time 18(min)=7
+18:22:35 >>> Startup wind retrieval module by calling the applicaion!
+18:22:35 >>> Run ID: 3, BaseData QC Receive msg
+18:22:35 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814002400_O_DOR_SA_CAP.bin.bz2
+18:22:36 >>> Run ID: 3, Vs to Cart Receive msg
+18:22:36 >>> Run ID: 3, BaseData QC Receive msg
+18:22:36 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:24
+18:22:36 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814002400_O_DOR_CB_CAP.bin.bz2
+18:22:37 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140018.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:22:37 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140018.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:22:37 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140018.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:23:13 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:24
+18:23:17 >>> Run ID: 3, Mosaic Timer Receive msg
+18:23:17 >>> Run ID: 3, Vs to Cart Receive msg
+18:23:17 >>> Run ID: 3, BaseData QC Receive msg
+18:23:17 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:24
+18:23:17 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814002400_O_DOR_CB_CAP.bin.bz2
+18:23:51 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:24
+18:23:55 >>> Run ID: 3, Mosaic Timer Receive msg
+18:23:55 >>> Run ID: 3, Vs to Cart Receive msg
+18:23:55 >>> Run ID: 3, BaseData QC Receive msg
+18:23:55 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:24
+18:23:55 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814002400_O_DOR_SA_CAP.bin.bz2
+18:24:29 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:24
+18:24:33 >>> Run ID: 3, Mosaic Timer Receive msg
+18:24:33 >>> Run ID: 3, Vs to Cart Receive msg
+18:24:33 >>> Run ID: 3, BaseData QC Receive msg
+18:24:33 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:24
+18:24:33 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814002400_O_DOR_SA_CAP.bin.bz2
+18:25:07 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:24
+18:25:10 >>> Run ID: 3, Mosaic Timer Receive msg
+18:25:10 >>> Run ID: 3, Vs to Cart Receive msg
+18:25:10 >>> Run ID: 3, BaseData QC Receive msg
+18:25:10 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:24
+18:25:10 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814002400_O_DOR_SA_CAP.bin.bz2
+18:25:45 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:24
+18:25:49 >>> Run ID: 3, Mosaic Timer Receive msg
+18:25:49 >>> Run ID: 3, Vs to Cart Receive msg
+18:25:49 >>> Run ID: 3, BaseData QC Receive msg
+18:25:49 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:24
+18:25:49 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814002400_O_DOR_SA_CAP.bin.bz2
+18:26:23 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:24
+18:26:27 >>> Run ID: 3, Mosaic Timer Receive msg
+18:26:27 >>> Run ID: 3, Vs to Cart Receive msg
+18:26:27 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:24
+18:27:01 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:24
+18:27:05 >>> Run ID: 3, Start Mosaic !!!!
+18:27:05 >>> Run ID: 3, Mosaic Timer Receive msg
+18:27:05 >>> Number of files for this mosaic time 24(min)=7
+18:27:05 >>> Startup wind retrieval module by calling the applicaion!
+18:27:05 >>> Run ID: 4, BaseData QC Receive msg
+18:27:05 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814003000_O_DOR_CB_CAP.bin.bz2
+18:27:06 >>> Run ID: 4, Vs to Cart Receive msg
+18:27:06 >>> Run ID: 4, BaseData QC Receive msg
+18:27:06 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:30
+18:27:06 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814003000_O_DOR_CB_CAP.bin.bz2
+18:27:07 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140024.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:27:07 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140024.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:27:07 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140024.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:27:44 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:30
+18:27:48 >>> Run ID: 4, Mosaic Timer Receive msg
+18:27:48 >>> Run ID: 4, Vs to Cart Receive msg
+18:27:48 >>> Run ID: 4, BaseData QC Receive msg
+18:27:48 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:30
+18:27:48 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814003000_O_DOR_SA_CAP.bin.bz2
+18:28:24 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:30
+18:28:28 >>> Run ID: 4, Mosaic Timer Receive msg
+18:28:28 >>> Run ID: 4, Vs to Cart Receive msg
+18:28:28 >>> Run ID: 4, BaseData QC Receive msg
+18:28:28 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:30
+18:28:28 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814003000_O_DOR_SA_CAP.bin.bz2
+18:29:03 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:30
+18:29:07 >>> Run ID: 4, Mosaic Timer Receive msg
+18:29:07 >>> Run ID: 4, Vs to Cart Receive msg
+18:29:07 >>> Run ID: 4, BaseData QC Receive msg
+18:29:07 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:30
+18:29:07 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814003000_O_DOR_SA_CAP.bin.bz2
+18:29:42 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:30
+18:29:45 >>> Run ID: 4, Mosaic Timer Receive msg
+18:29:46 >>> Run ID: 4, Vs to Cart Receive msg
+18:29:46 >>> Run ID: 4, BaseData QC Receive msg
+18:29:46 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:30
+18:29:46 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814003000_O_DOR_SA_CAP.bin.bz2
+18:30:21 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:30
+18:30:25 >>> Run ID: 4, Mosaic Timer Receive msg
+18:30:25 >>> Run ID: 4, Vs to Cart Receive msg
+18:30:25 >>> Run ID: 4, BaseData QC Receive msg
+18:30:25 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:30
+18:30:25 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814003000_O_DOR_SA_CAP.bin.bz2
+18:31:00 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:30
+18:31:03 >>> Run ID: 4, Mosaic Timer Receive msg
+18:31:03 >>> Run ID: 4, Vs to Cart Receive msg
+18:31:03 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:30
+18:31:38 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:30
+18:31:42 >>> Run ID: 4, Mosaic Timer Receive msg
+18:31:42 >>> Run ID: 4, Start Mosaic !!!!
+18:31:42 >>> Number of files for this mosaic time 30(min)=7
+18:31:42 >>> Startup wind retrieval module by calling the applicaion!
+18:31:42 >>> Run ID: 0, BaseData QC Receive msg
+18:31:42 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814003600_O_DOR_SA_CAP.bin.bz2
+18:31:43 >>> Run ID: 0, Vs to Cart Receive msg
+18:31:43 >>> Run ID: 0, BaseData QC Receive msg
+18:31:43 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:36
+18:31:43 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814003600_O_DOR_CB_CAP.bin.bz2
+18:31:45 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140030.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:31:45 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140030.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:31:45 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140030.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:32:22 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:36
+18:32:26 >>> Run ID: 0, Mosaic Timer Receive msg
+18:32:26 >>> Run ID: 0, Vs to Cart Receive msg
+18:32:26 >>> Run ID: 0, BaseData QC Receive msg
+18:32:26 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:36
+18:32:26 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814003600_O_DOR_CB_CAP.bin.bz2
+18:33:01 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:36
+18:33:04 >>> Run ID: 0, Mosaic Timer Receive msg
+18:33:04 >>> Run ID: 0, Vs to Cart Receive msg
+18:33:04 >>> Run ID: 0, BaseData QC Receive msg
+18:33:04 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:36
+18:33:04 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814003600_O_DOR_SA_CAP.bin.bz2
+18:33:39 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:36
+18:33:43 >>> Run ID: 0, Mosaic Timer Receive msg
+18:33:43 >>> Run ID: 0, Vs to Cart Receive msg
+18:33:43 >>> Run ID: 0, BaseData QC Receive msg
+18:33:43 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:36
+18:33:43 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814003600_O_DOR_SA_CAP.bin.bz2
+18:34:18 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:36
+18:34:22 >>> Run ID: 0, Mosaic Timer Receive msg
+18:34:22 >>> Run ID: 0, Vs to Cart Receive msg
+18:34:22 >>> Run ID: 0, BaseData QC Receive msg
+18:34:22 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:36
+18:34:22 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814003600_O_DOR_SA_CAP.bin.bz2
+18:34:57 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:36
+18:35:01 >>> Run ID: 0, Mosaic Timer Receive msg
+18:35:01 >>> Run ID: 0, Vs to Cart Receive msg
+18:35:01 >>> Run ID: 0, BaseData QC Receive msg
+18:35:01 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:36
+18:35:01 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814003600_O_DOR_SA_CAP.bin.bz2
+18:35:35 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:36
+18:35:39 >>> Run ID: 0, Mosaic Timer Receive msg
+18:35:39 >>> Run ID: 0, Vs to Cart Receive msg
+18:35:39 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:36
+18:36:14 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:36
+18:36:17 >>> Run ID: 0, Mosaic Timer Receive msg
+18:36:17 >>> Number of files for this mosaic time 36(min)=7
+18:36:17 >>> Startup wind retrieval module by calling the applicaion!
+18:36:17 >>> Run ID: 1, BaseData QC Receive msg
+18:36:18 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814004200_O_DOR_CB_CAP.bin.bz2
+18:36:19 >>> Run ID: 1, Vs to Cart Receive msg
+18:36:19 >>> Run ID: 1, BaseData QC Receive msg
+18:36:19 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:42
+18:36:19 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814004200_O_DOR_SA_CAP.bin.bz2
+18:36:20 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140036.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:36:20 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140036.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:36:20 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140036.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:36:57 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:42
+18:37:00 >>> Run ID: 1, Mosaic Timer Receive msg
+18:37:01 >>> Run ID: 1, Vs to Cart Receive msg
+18:37:01 >>> Run ID: 1, BaseData QC Receive msg
+18:37:01 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:42
+18:37:01 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814004200_O_DOR_SA_CAP.bin.bz2
+18:37:35 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:42
+18:37:39 >>> Run ID: 1, Mosaic Timer Receive msg
+18:37:39 >>> Run ID: 1, Vs to Cart Receive msg
+18:37:39 >>> Run ID: 1, BaseData QC Receive msg
+18:37:39 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:42
+18:37:39 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814004200_O_DOR_SA_CAP.bin.bz2
+18:38:14 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:42
+18:38:17 >>> Run ID: 1, Mosaic Timer Receive msg
+18:38:17 >>> Run ID: 1, Vs to Cart Receive msg
+18:38:17 >>> Run ID: 1, BaseData QC Receive msg
+18:38:18 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:42
+18:38:18 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814004200_O_DOR_SA_CAP.bin.bz2
+18:38:52 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:42
+18:38:56 >>> Run ID: 1, Mosaic Timer Receive msg
+18:38:56 >>> Run ID: 1, Vs to Cart Receive msg
+18:38:56 >>> Run ID: 1, BaseData QC Receive msg
+18:38:56 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:42
+18:38:56 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814004200_O_DOR_SA_CAP.bin.bz2
+18:39:30 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:42
+18:39:34 >>> Run ID: 1, Mosaic Timer Receive msg
+18:39:34 >>> Run ID: 1, Vs to Cart Receive msg
+18:39:34 >>> Run ID: 1, BaseData QC Receive msg
+18:39:34 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:42
+18:39:34 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814004200_O_DOR_CB_CAP.bin.bz2
+18:40:08 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:42
+18:40:12 >>> Run ID: 1, Mosaic Timer Receive msg
+18:40:12 >>> Run ID: 1, Vs to Cart Receive msg
+18:40:12 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:42
+18:40:46 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:42
+18:40:49 >>> Run ID: 1, Start Mosaic !!!!
+18:40:49 >>> Number of files for this mosaic time 42(min)=7
+18:40:49 >>> Startup wind retrieval module by calling the applicaion!
+18:40:50 >>> Run ID: 2, BaseData QC Receive msg
+18:40:50 >>> To get radar data and QC for 天津. File: Q:\20180814-HeibeiExample\Z9220\Z_RADR_I_Z9220_20180814004800_O_DOR_SA_CAP.bin.bz2
+18:40:51 >>> Run ID: 2, Vs to Cart Receive msg
+18:40:51 >>> Run ID: 2, BaseData QC Receive msg
+18:40:51 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:48
+18:40:51 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814004800_O_DOR_SA_CAP.bin.bz2
+18:40:52 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140042.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:40:52 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140042.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:40:52 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140042.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:41:29 >>> Volume to grid for radar site : 天津. Time of Data: 2018-08-14 00:48
+18:41:33 >>> Run ID: 2, Mosaic Timer Receive msg
+18:41:33 >>> Run ID: 2, Vs to Cart Receive msg
+18:41:33 >>> Run ID: 2, BaseData QC Receive msg
+18:41:33 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:48
+18:41:33 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814004800_O_DOR_CB_CAP.bin.bz2
+18:42:07 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:48
+18:42:11 >>> Run ID: 2, Mosaic Timer Receive msg
+18:42:11 >>> Run ID: 2, Vs to Cart Receive msg
+18:42:11 >>> Run ID: 2, BaseData QC Receive msg
+18:42:11 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:48
+18:42:11 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814004800_O_DOR_SA_CAP.bin.bz2
+18:42:45 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:48
+18:42:49 >>> Run ID: 2, Mosaic Timer Receive msg
+18:42:49 >>> Run ID: 2, Vs to Cart Receive msg
+18:42:49 >>> Run ID: 2, BaseData QC Receive msg
+18:42:49 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:48
+18:42:49 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814004800_O_DOR_CB_CAP.bin.bz2
+18:43:23 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:48
+18:43:27 >>> Run ID: 2, Mosaic Timer Receive msg
+18:43:27 >>> Run ID: 2, Vs to Cart Receive msg
+18:43:27 >>> Run ID: 2, BaseData QC Receive msg
+18:43:27 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:48
+18:43:27 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814004800_O_DOR_SA_CAP.bin.bz2
+18:44:01 >>> Volume to grid for radar site : 承德. Time of Data: 2018-08-14 00:48
+18:44:05 >>> Run ID: 2, Mosaic Timer Receive msg
+18:44:05 >>> Run ID: 2, Vs to Cart Receive msg
+18:44:05 >>> Run ID: 2, BaseData QC Receive msg
+18:44:05 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:48
+18:44:05 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814004800_O_DOR_SA_CAP.bin.bz2
+18:44:40 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:48
+18:44:43 >>> Run ID: 2, Mosaic Timer Receive msg
+18:44:43 >>> Run ID: 2, Vs to Cart Receive msg
+18:44:43 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:48
+18:45:18 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:48
+18:45:21 >>> Run ID: 2, Mosaic Timer Receive msg
+18:45:21 >>> Run ID: 2, Start Mosaic !!!!
+18:45:21 >>> Number of files for this mosaic time 48(min)=7
+18:45:21 >>> Startup wind retrieval module by calling the applicaion!
+18:45:21 >>> Run ID: 3, BaseData QC Receive msg
+18:45:21 >>> To get radar data and QC for 石家庄. File: Q:\20180814-HeibeiExample\Z9311\Z_RADR_I_Z9311_20180814005400_O_DOR_SA_CAP.bin.bz2
+18:45:23 >>> Run ID: 3, Vs to Cart Receive msg
+18:45:23 >>> Run ID: 3, BaseData QC Receive msg
+18:45:23 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:54
+18:45:23 >>> To get radar data and QC for 沧州. File: Q:\20180814-HeibeiExample\Z9317\Z_RADR_I_Z9317_20180814005400_O_DOR_SA_CAP.bin.bz2
+18:45:24 >>> Call module: ./ProductModules/CR  Q:\20180814-HeibeiExample\prod0329\mref\201808140048.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:45:24 >>> Call module: ./ProductModules/ET  Q:\20180814-HeibeiExample\prod0329\mref\201808140048.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:45:24 >>> Call module: ./ProductModules/VIL  Q:\20180814-HeibeiExample\prod0329\mref\201808140048.dat  Q:\20180814-HeibeiExample\prod0329\  NA  Q:\20180814-HeibeiExample\prod0329\TempData  NA
+18:46:00 >>> Volume to grid for radar site : 石家庄. Time of Data: 2018-08-14 00:54
+18:46:04 >>> Run ID: 3, Mosaic Timer Receive msg
+18:46:04 >>> Run ID: 3, Vs to Cart Receive msg
+18:46:04 >>> Run ID: 3, BaseData QC Receive msg
+18:46:04 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:54
+18:46:04 >>> To get radar data and QC for 北京S. File: Q:\20180814-HeibeiExample\Z9010\Z_RADR_I_Z9010_20180814005400_O_DOR_SA_CAP.bin.bz2
+18:46:38 >>> Volume to grid for radar site : 沧州. Time of Data: 2018-08-14 00:54
+18:46:42 >>> Run ID: 3, Mosaic Timer Receive msg
+18:46:42 >>> Run ID: 3, Vs to Cart Receive msg
+18:46:42 >>> Run ID: 3, BaseData QC Receive msg
+18:46:42 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:54
+18:46:42 >>> To get radar data and QC for 张家口. File: Q:\20180814-HeibeiExample\Z9313\Z_RADR_I_Z9313_20180814005400_O_DOR_CB_CAP.bin.bz2
+18:47:18 >>> Volume to grid for radar site : 北京S. Time of Data: 2018-08-14 00:54
+18:47:21 >>> Run ID: 3, Mosaic Timer Receive msg
+18:47:21 >>> Run ID: 3, Vs to Cart Receive msg
+18:47:21 >>> Run ID: 3, BaseData QC Receive msg
+18:47:21 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:54
+18:47:21 >>> To get radar data and QC for 秦皇岛. File: Q:\20180814-HeibeiExample\Z9335\Z_RADR_I_Z9335_20180814005400_O_DOR_SA_CAP.bin.bz2
+18:47:55 >>> Volume to grid for radar site : 张家口. Time of Data: 2018-08-14 00:54
+18:47:59 >>> Run ID: 3, Mosaic Timer Receive msg
+18:47:59 >>> Run ID: 3, Vs to Cart Receive msg
+18:47:59 >>> Run ID: 3, BaseData QC Receive msg
+18:47:59 >>> Volume to grid for radar site : 秦皇岛. Time of Data: 2018-08-14 00:54
+18:47:59 >>> To get radar data and QC for 承德. File: Q:\20180814-HeibeiExample\Z9314\Z_RADR_I_Z9314_20180814005400_O_DOR_CB_CAP.bin.bz2
+18:48:49 >>> Load task:TaskSysMonitor
+18:48:49 >>> Load task:TaskRealTimeSearch
+18:48:49 >>> Load task:TaskMosaicTimer
+18:48:49 >>> Load task:TaskArchiveDataProc
+18:48:49 >>> Load task:TaskBaseDataQCPro
+18:48:49 >>> Load task:TaskVSToCartesain
+18:48:49 >>> Load task:TaskMultiSiteMosaic
+18:48:49 >>> Load task:MosaicDerivedProdProc
+19:37:19 >>> Exit the program.

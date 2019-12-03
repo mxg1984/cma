@@ -1,0 +1,22 @@
+20:01:19 >>> Path(Q:\20180814-HeibeiExample\Z9313\) not found.
+20:01:23 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\天津), path not found.
+20:01:36 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\承德), path not found.
+20:01:49 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\石家庄), path not found.
+20:02:13 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\秦皇岛), path not found.
+20:02:26 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\沧州), path not found.
+20:02:38 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\北京S), path not found.
+20:02:49 >>> Failed read single-3D data from file
+20:02:52 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\秦皇岛), path not found.
+20:03:11 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\石家庄), path not found.
+20:03:24 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\沧州), path not found.
+20:03:37 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\天津), path not found.
+20:03:49 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\承德), path not found.
+20:04:06 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\北京S), path not found.
+20:04:16 >>> Failed read single-3D data from file
+20:04:20 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\天津), path not found.
+20:04:39 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\石家庄), path not found.
+20:05:28 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\承德), path not found.
+20:05:41 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\秦皇岛), path not found.
+20:05:54 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\沧州), path not found.
+20:06:06 >>> Failed to create directory(Q:\20180814-HeibeiExample\prod\TempData\SMOSAICDATA\北京S), path not found.
+20:06:16 >>> Failed read single-3D data from file

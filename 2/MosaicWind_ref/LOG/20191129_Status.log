@@ -1,0 +1,66 @@
+10:47:41 >>> Load task:TaskSysMonitor
+10:47:41 >>> Load task:TaskRealTimeSearch
+10:47:41 >>> Load task:TaskMosaicTimer
+10:47:41 >>> Load task:TaskArchiveDataProc
+10:47:41 >>> Load task:TaskBaseDataQCPro
+10:47:41 >>> Load task:TaskVSToCartesain
+10:47:41 >>> Load task:TaskMultiSiteMosaic
+10:47:41 >>> Load task:MosaicDerivedProdProc
+10:47:41 >>> App information: function=2, user=2.
+10:47:56 >>> Exit the program.
+10:51:16 >>> Load task:TaskSysMonitor
+10:51:16 >>> Load task:TaskRealTimeSearch
+10:51:16 >>> Load task:TaskMosaicTimer
+10:51:16 >>> Load task:TaskArchiveDataProc
+10:51:16 >>> Load task:TaskBaseDataQCPro
+10:51:16 >>> Load task:TaskVSToCartesain
+10:51:16 >>> Load task:TaskMultiSiteMosaic
+10:51:16 >>> Load task:MosaicDerivedProdProc
+10:51:16 >>> App information: function=2, user=1.
+10:51:25 >>> Exit the program.
+10:56:07 >>> Load task:TaskSysMonitor
+10:56:07 >>> Load task:TaskRealTimeSearch
+10:56:07 >>> Load task:TaskMosaicTimer
+10:56:07 >>> Load task:TaskArchiveDataProc
+10:56:07 >>> Load task:TaskBaseDataQCPro
+10:56:07 >>> Load task:TaskVSToCartesain
+10:56:07 >>> Load task:TaskMultiSiteMosaic
+10:56:07 >>> Load task:MosaicDerivedProdProc
+10:56:07 >>> App information: function=2, user=1.
+10:56:47 >>> Load task:TaskSysMonitor
+10:56:47 >>> Load task:TaskRealTimeSearch
+10:56:47 >>> Load task:TaskMosaicTimer
+10:56:47 >>> Load task:TaskArchiveDataProc
+10:56:47 >>> Load task:TaskBaseDataQCPro
+10:56:47 >>> Load task:TaskVSToCartesain
+10:56:47 >>> Load task:TaskMultiSiteMosaic
+10:56:47 >>> Load task:MosaicDerivedProdProc
+10:56:47 >>> App information: function=2, user=1.
+10:57:08 >>> Load task:TaskSysMonitor
+10:57:08 >>> Load task:TaskRealTimeSearch
+10:57:08 >>> Load task:TaskMosaicTimer
+10:57:08 >>> Load task:TaskArchiveDataProc
+10:57:08 >>> Load task:TaskBaseDataQCPro
+10:57:08 >>> Load task:TaskVSToCartesain
+10:57:08 >>> Load task:TaskMultiSiteMosaic
+10:57:08 >>> Load task:MosaicDerivedProdProc
+10:57:08 >>> App information: function=2, user=1.
+10:58:02 >>> Load task:TaskSysMonitor
+10:58:02 >>> Load task:TaskRealTimeSearch
+10:58:02 >>> Load task:TaskMosaicTimer
+10:58:02 >>> Load task:TaskArchiveDataProc
+10:58:02 >>> Load task:TaskBaseDataQCPro
+10:58:02 >>> Load task:TaskVSToCartesain
+10:58:02 >>> Load task:TaskMultiSiteMosaic
+10:58:02 >>> Load task:MosaicDerivedProdProc
+10:58:02 >>> App information: function=2, user=1.
+10:58:07 >>> Start no-realtime operation
+10:58:07 >>> Run ID: 0, BaseData QC Receive msg
+10:58:07 >>> Read radar data and QC for º¼ÖÝ. File: H:\QPE-CAMS\radardata\Z9571\Z_RADR_I_Z9571_20180816000700_O_DOR_SA_CAP.bin.bz2
+10:58:52 >>> Run ID: 0, Vs to Cart Receive msg
+10:58:53 >>> Run ID: 0, BaseData QC Receive msg
+10:58:53 >>> Volume to grid for radar site : º¼ÖÝ. Time of Data: 2018-08-16 00:07
+10:58:53 >>> Read radar data and QC for Äþ²¨. File: H:\QPE-CAMS\radardata\Z9574\Z_RADR_I_Z9574_20180816000900_O_DOR_SA_CAP.bin.bz2
+10:58:57 >>> Load task:TaskSysMonitor
+10:59:01 >>> Load task:TaskRealTimeSearch
+10:59:07 >>> Load task:TaskMosaicTimer

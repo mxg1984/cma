@@ -1,0 +1,182 @@
+10:30:48 	内存:24.03\24.03 	分页:18.73\18.74	>>> Scit: Alg running for seconds: 0  
+10:37:41 	内存:24.03\24.03 	分页:18.68\18.68	>>> Scit: Alg running for seconds: 0  
+10:37:41 	内存:24.05\24.05 	分页:18.68\18.68	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705070018.dat  
+10:52:28 	内存:7.65\8.62 	分页:2.41\3.44	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705070042.dat  
+10:59:48 	内存:7.64\8.61 	分页:2.41\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705070054.dat  
+11:07:08 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705070106.dat  
+11:26:35 	内存:7.65\23.47 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705070142.dat  
+11:30:23 	内存:23.69\23.69 	分页:18.30\18.31	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705070148.dat  
+11:40:13 	内存:10.23\12.21 	分页:4.59\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070206.dat  
+11:43:53 	内存:8.63\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705070212.dat  
+11:43:54 	内存:10.21\12.15 	分页:4.60\6.55	>>> Qpr: Success to output temp data  
+11:43:54 	内存:10.22\12.20 	分页:4.60\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070212.dat  
+11:47:33 	内存:10.22\12.16 	分页:4.60\6.55	>>> Qpr: Success to output temp data  
+11:54:51 	内存:10.24\12.18 	分页:4.60\6.55	>>> Qpr: Success to output temp data  
+11:54:51 	内存:10.24\12.22 	分页:4.60\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070230.dat  
+12:02:13 	内存:10.28\12.26 	分页:4.59\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070242.dat  
+12:05:55 	内存:10.25\12.18 	分页:4.60\6.55	>>> Qpr: Success to output temp data  
+12:05:55 	内存:10.29\12.27 	分页:4.60\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070248.dat  
+12:09:37 	内存:10.29\12.27 	分页:4.59\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070254.dat  
+12:09:37 	内存:23.54\23.54 	分页:18.14\18.14	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705070254.dat  
+12:19:27 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070312.dat  
+12:26:48 	内存:10.26\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+12:26:48 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070324.dat  
+12:30:30 	内存:10.25\12.16 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+12:34:12 	内存:7.64\8.61 	分页:2.41\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705070336.dat  
+12:45:14 	内存:10.26\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+12:48:59 	内存:23.36\23.36 	分页:18.01\18.01	>>> Scit: Alg running for seconds: 0  
+12:58:49 	内存:10.23\12.16 	分页:4.60\6.56	>>> Qpr: Success to output temp data  
+13:13:28 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+13:20:47 	内存:23.40\23.40 	分页:18.02\18.02	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705070454.dat  
+13:24:25 	内存:10.25\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+13:30:33 	内存:23.51\23.51 	分页:18.15\18.15	>>> Scit: Alg running for seconds: 0  
+13:34:14 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705070518.dat  
+13:34:14 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+13:34:14 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070518.dat  
+13:37:54 	内存:23.53\23.53 	分页:18.17\18.17	>>> Scit: Alg running for seconds: 0  
+13:41:33 	内存:10.24\12.16 	分页:4.60\6.55	>>> Qpr: Success to output temp data  
+13:41:33 	内存:10.27\12.25 	分页:4.60\6.59	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070530.dat  
+13:45:13 	内存:10.24\12.16 	分页:4.60\6.55	>>> Qpr: Success to output temp data  
+13:45:13 	内存:10.28\12.26 	分页:4.60\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070536.dat  
+13:52:35 	内存:10.25\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+13:52:35 	内存:10.29\12.27 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070548.dat  
+13:56:15 	内存:7.66\23.48 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705070554.dat  
+14:00:02 	内存:10.29\12.27 	分页:4.62\6.61	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070600.dat  
+14:03:45 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+14:03:45 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070606.dat  
+14:09:57 	内存:10.27\12.25 	分页:4.60\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070618.dat  
+14:13:39 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+14:17:21 	内存:10.25\12.16 	分页:4.62\6.56	>>> Qpr: Success to output temp data  
+14:19:56 	内存:23.81\23.81 	分页:18.45\18.45	>>> Scit: Alg running for seconds: 0  
+14:22:24 	内存:8.63\9.60 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705070642.dat  
+14:26:09 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070648.dat  
+14:36:01 	内存:23.80\23.80 	分页:18.42\18.43	>>> Scit: Alg running for seconds: 0  
+14:39:43 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070712.dat  
+14:43:25 	内存:7.66\23.48 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705070718.dat  
+14:47:02 	内存:23.91\23.91 	分页:18.57\18.57	>>> Scit: Alg running for seconds: 0  
+14:50:42 	内存:10.30\12.28 	分页:4.62\6.61	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070730.dat  
+15:01:51 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+15:11:39 	内存:8.63\9.60 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705070806.dat  
+15:11:40 	内存:10.26\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+15:14:10 	内存:24.04\24.04 	分页:18.67\18.67	>>> Scit: Alg running for seconds: 0  
+15:17:49 	内存:7.66\23.48 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705070818.dat  
+15:25:15 	内存:24.16\24.16 	分页:18.79\18.79	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705070830.dat  
+15:25:15 	内存:10.25\12.17 	分页:4.62\6.56	>>> Qpr: Success to output temp data  
+15:38:58 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070854.dat  
+15:42:48 	内存:10.27\12.18 	分页:4.62\6.56	>>> Qpr: Success to output temp data  
+15:46:29 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070906.dat  
+15:53:51 	内存:7.65\8.62 	分页:2.41\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705070918.dat  
+15:57:30 	内存:10.29\12.27 	分页:4.62\6.61	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070924.dat  
+16:01:11 	内存:10.26\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+16:01:11 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070930.dat  
+16:04:54 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705070936.dat  
+16:04:55 	内存:10.26\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+16:08:35 	内存:7.66\23.48 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705070942.dat  
+16:08:35 	内存:10.26\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+16:16:08 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705070954.dat  
+16:19:55 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071000.dat  
+16:35:51 	内存:10.26\12.18 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+16:39:35 	内存:10.25\12.18 	分页:4.62\6.56	>>> Qpr: Success to output temp data  
+16:43:19 	内存:8.63\9.60 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071036.dat  
+16:47:02 	内存:7.65\8.62 	分页:2.41\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705071042.dat  
+16:47:03 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+16:54:32 	内存:10.29\12.27 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071054.dat  
+17:09:14 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+17:09:14 	内存:10.30\12.28 	分页:4.61\6.59	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071118.dat  
+17:20:09 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+17:20:09 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071136.dat  
+17:23:40 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+17:27:23 	内存:10.27\12.18 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+17:27:23 	内存:10.31\12.29 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071148.dat  
+17:27:23 	内存:24.27\24.27 	分页:18.89\18.89	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071148.dat  
+17:30:59 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071154.dat  
+17:34:38 	内存:10.25\12.16 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+17:41:54 	内存:10.30\12.29 	分页:4.62\6.61	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071212.dat  
+17:45:37 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071218.dat  
+17:50:36 	内存:24.32\24.32 	分页:18.95\18.95	>>> Scit: Alg running for seconds: 0  
+18:06:28 	内存:10.26\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+18:06:28 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071300.dat  
+18:06:28 	内存:24.03\24.03 	分页:18.66\18.66	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071300.dat  
+18:10:11 	内存:23.88\23.88 	分页:18.57\18.57	>>> Scit: Alg running for seconds: 0  
+18:13:48 	内存:7.65\23.47 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071312.dat  
+18:13:49 	内存:10.27\12.25 	分页:4.59\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071312.dat  
+18:17:30 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071318.dat  
+18:21:11 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+18:27:25 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071336.dat  
+18:29:53 	内存:23.86\23.86 	分页:18.49\18.49	>>> Scit: Alg running for seconds: 0  
+18:29:53 	内存:23.88\23.88 	分页:18.49\18.49	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071342.dat  
+18:39:37 	内存:23.67\23.67 	分页:18.36\18.36	>>> Scit: Alg running for seconds: 0  
+18:43:20 	内存:10.26\12.17 	分页:4.61\6.56	>>> Qpr: Success to output temp data  
+18:56:38 	内存:7.66\23.48 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071430.dat  
+19:00:14 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+19:03:50 	内存:10.26\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+19:03:50 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071442.dat  
+19:03:50 	内存:23.47\23.47 	分页:18.11\18.11	>>> Scit: Alg running for seconds: 0  
+19:14:37 	内存:10.25\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+19:14:37 	内存:23.35\23.35 	分页:17.99\18.00	>>> Scit: Alg running for seconds: 0  
+19:18:19 	内存:7.64\8.61 	分页:2.40\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705071506.dat  
+19:22:00 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+19:22:00 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071512.dat  
+19:29:24 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071524.dat  
+19:36:46 	内存:7.66\23.48 	分页:2.45\18.35	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071536.dat  
+19:44:08 	内存:7.66\23.48 	分页:2.45\18.35	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071548.dat  
+19:44:09 	内存:23.29\23.29 	分页:17.94\17.94	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071548.dat  
+19:44:09 	内存:10.26\12.18 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+19:47:51 	内存:7.65\23.47 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071554.dat  
+19:47:52 	内存:10.27\12.18 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+19:53:58 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071606.dat  
+19:57:42 	内存:23.26\23.26 	分页:17.88\17.89	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071612.dat  
+19:57:42 	内存:10.28\12.26 	分页:4.59\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071612.dat  
+20:00:14 	内存:23.14\23.14 	分页:17.86\17.86	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071618.dat  
+20:06:19 	内存:7.65\8.62 	分页:2.40\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705071630.dat  
+20:10:03 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071636.dat  
+20:13:44 	内存:7.65\23.46 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071642.dat  
+20:13:45 	内存:8.63\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071642.dat  
+20:34:45 	内存:7.67\23.48 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071718.dat  
+20:34:46 	内存:10.24\12.16 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+20:34:46 	内存:10.28\12.26 	分页:4.61\6.59	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071718.dat  
+20:38:27 	内存:7.65\23.47 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071724.dat  
+20:38:27 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071724.dat  
+20:38:27 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+20:38:28 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071724.dat  
+20:42:09 	内存:7.68\23.49 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705071730.dat  
+20:42:10 	内存:23.26\23.26 	分页:17.90\17.90	>>> Scit: Alg running for seconds: 0  
+20:42:10 	内存:10.30\12.28 	分页:4.61\6.59	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071730.dat  
+20:54:20 	内存:10.27\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+20:57:56 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705071800.dat  
+20:57:57 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071800.dat  
+21:01:33 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+21:05:09 	内存:10.26\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+21:05:10 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071812.dat  
+21:08:51 	内存:10.29\12.27 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071818.dat  
+21:12:34 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071824.dat  
+21:21:12 	内存:10.30\12.28 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071842.dat  
+21:29:57 	内存:23.20\23.20 	分页:17.85\17.86	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071900.dat  
+21:33:33 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071906.dat  
+21:37:18 	内存:10.28\12.26 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071912.dat  
+21:44:41 	内存:10.25\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+21:44:41 	内存:10.29\12.27 	分页:4.61\6.59	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705071924.dat  
+21:48:23 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+21:53:26 	内存:23.19\23.19 	分页:17.85\17.86	>>> Scit: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\SCIT/201705071942.dat  
+22:10:38 	内存:8.63\9.60 	分页:3.39\4.41	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705072012.dat  
+22:14:18 	内存:7.66\23.48 	分页:2.45\18.35	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705072018.dat  
+22:14:19 	内存:7.64\8.61 	分页:2.40\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705072018.dat  
+22:24:07 	内存:10.28\12.26 	分页:4.59\6.58	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705072036.dat  
+22:36:25 	内存:10.25\12.16 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+22:40:03 	内存:10.25\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+22:43:37 	内存:10.25\12.17 	分页:4.62\6.55	>>> Qpr: Success to output temp data  
+22:50:47 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705072124.dat  
+22:54:20 	内存:7.65\23.47 	分页:2.45\18.35	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705072130.dat  
+23:05:13 	内存:10.27\12.18 	分页:4.62\6.56	>>> Qpr: Success to output temp data  
+23:08:51 	内存:7.65\8.62 	分页:2.40\3.43	>>> Et: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\ET/201705072154.dat  
+23:08:51 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705072154.dat  
+23:12:32 	内存:10.25\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+23:16:14 	内存:10.30\12.28 	分页:4.62\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705072206.dat  
+23:27:05 	内存:7.65\23.47 	分页:2.46\18.36	>>> Cr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\CR/201705072224.dat  
+23:27:06 	内存:10.25\12.18 	分页:4.59\6.55	>>> Qpr: Success to output temp data  
+23:30:49 	内存:10.25\12.16 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+23:30:49 	内存:10.29\12.27 	分页:4.61\6.60	>>> Qpr: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\QPR/201705072230.dat  
+23:34:29 	内存:8.64\9.61 	分页:3.39\4.42	>>> Vil: Success to output product of local format-Q:\20170506-07-GuangzhouHeavyRain\prod\VIL/201705072236.dat  
+23:38:07 	内存:10.26\12.17 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+23:45:25 	内存:10.26\12.18 	分页:4.61\6.55	>>> Qpr: Success to output temp data  
+23:52:46 	内存:23.31\23.31 	分页:17.96\17.96	>>> Scit: Alg running for seconds: 0  

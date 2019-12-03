@@ -1,0 +1,25 @@
+15:22:10 	内存:5.04\5.04 	分页:3.23\3.23	>>> PCC module is running  
+15:22:10 	内存:5.09\5.09 	分页:3.24\3.24	>>> PCC product in generating  
+15:22:10 	内存:5.27\10.37 	分页:3.39\8.61	>>> Hsr: Success to output product of local format-F:\LOCAL\HSR/201607200006.dat  
+15:22:13 	内存:6.47\9.46 	分页:4.36\7.48	>>> Pcc: Success to output temp data  
+15:22:13 	内存:6.48\9.46 	分页:4.36\7.48	>>> Pcc: Success to output product of local format-F:\LOCAL\PCC/201607200006.dat  
+15:22:13 	内存:5.43\9.46 	分页:3.31\7.48	>>> PCC module is finished  
+15:25:09 	内存:5.27\10.37 	分页:1.90\7.10	>>> Hsr: Success to output temp data  
+15:25:10 	内存:5.04\5.04 	分页:0.77\0.77	>>> PCC module is running  
+15:25:10 	内存:5.09\5.09 	分页:0.78\0.78	>>> PCC product in generating  
+15:25:13 	内存:6.49\9.46 	分页:1.92\5.02	>>> Pcc: Success to output temp data  
+15:25:13 	内存:6.49\9.46 	分页:1.92\5.02	>>> Pcc: Success to output product of local format-F:\LOCAL\PCC/201607200012.dat  
+15:25:13 	内存:5.44\9.46 	分页:0.87\5.02	>>> PCC module is finished  
+15:28:11 	内存:4.54\9.59 	分页:1.90\7.10	>>> Hsr: Success to output temp data  
+15:28:11 	内存:3.50\3.50 	分页:0.77\0.77	>>> PCC module is running  
+15:28:11 	内存:3.56\3.56 	分页:0.78\0.78	>>> PCC product in generating  
+15:28:11 	内存:9.85\14.03 	分页:7.15\11.33	>>> Qpr: Success to output temp data  
+15:28:14 	内存:5.21\8.09 	分页:1.92\5.02	>>> Pcc: Success to output temp data  
+15:28:14 	内存:5.21\8.09 	分页:1.92\5.02	>>> Pcc: Success to output product of local format-F:\LOCAL\PCC/201607200018.dat  
+15:28:14 	内存:4.16\8.09 	分页:0.87\5.02	>>> PCC module is finished  
+15:34:42 	内存:3.50\3.50 	分页:0.77\0.77	>>> PCC module is running  
+15:34:42 	内存:3.56\3.56 	分页:0.78\0.78	>>> PCC product in generating  
+15:34:42 	内存:4.54\9.59 	分页:1.90\7.10	>>> Hsr: Success to output product of local format-F:\LOCAL\HSR/201607200006.dat  
+15:34:45 	内存:5.21\8.09 	分页:1.92\5.02	>>> Pcc: Success to output temp data  
+15:34:45 	内存:5.21\8.09 	分页:1.92\5.02	>>> Pcc: Success to output product of local format-F:\LOCAL\PCC/201607200006.dat  
+15:34:45 	内存:4.16\8.09 	分页:0.87\5.02	>>> PCC module is finished  

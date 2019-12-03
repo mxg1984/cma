@@ -1,0 +1,44 @@
+00:19:13 	内存:28.04\28.05 	分页:22.75\22.75	>>> Scit: Alg running for seconds: 0  
+00:38:16 	内存:7.40\26.59 	分页:2.17\21.40	>>> Cr: Fail to create path for local format product   
+00:38:16 	内存:9.62\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+00:57:21 	内存:9.62\11.10 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+01:07:00 	内存:8.14\9.62 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+01:54:38 	内存:9.62\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+02:50:41 	内存:8.14\9.61 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+03:38:22 	内存:7.39\26.58 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+05:12:32 	内存:27.73\27.78 	分页:22.55\22.56	>>> Scit: Alg running for seconds: 0  
+05:41:06 	内存:27.65\27.65 	分页:22.32\22.38	>>> Hsr: Fail to create path for local format product   
+05:50:34 	内存:8.15\9.62 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+06:00:00 	内存:7.39\26.59 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+07:05:28 	内存:9.61\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+07:05:28 	内存:27.39\27.39 	分页:22.08\22.08	>>> Hsr: Fail to create path for local format product   
+07:53:11 	内存:8.14\9.61 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+07:53:12 	内存:27.65\27.73 	分页:22.27\22.51	>>> Hsr: Fail to create path for local format product   
+09:09:31 	内存:9.62\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+09:47:34 	内存:9.61\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+10:44:51 	内存:27.39\27.43 	分页:22.23\22.23	>>> Hsr: Fail to create path for local format product   
+11:13:43 	内存:8.14\9.61 	分页:2.90\4.38	>>> Et: Fail to create path for local format product   
+11:23:17 	内存:8.14\9.61 	分页:2.90\4.38	>>> Et: Fail to create path for local format product   
+11:42:30 	内存:9.62\11.09 	分页:4.79\6.27	>>> Vil: Fail to create path for local format product   
+12:10:59 	内存:7.39\26.59 	分页:2.17\21.40	>>> Cr: Fail to create path for local format product   
+12:20:32 	内存:27.50\27.59 	分页:22.27\22.34	>>> Hsr: Fail to create path for local format product   
+12:30:07 	内存:27.69\27.69 	分页:22.41\22.41	>>> Hsr: Fail to create path for local format product   
+13:37:05 	内存:27.14\27.14 	分页:21.88\21.88	>>> Hsr: Fail to create path for local format product   
+14:04:27 	内存:7.40\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+14:12:47 	内存:7.39\26.59 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+14:21:09 	内存:8.14\9.61 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+14:29:28 	内存:7.40\26.59 	分页:2.17\21.41	>>> Cr: Fail to create path for local format product   
+15:14:52 	内存:9.62\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+15:14:53 	内存:27.32\27.32 	分页:21.97\21.98	>>> Scit: Alg running for seconds: 0  
+16:02:53 	内存:9.61\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+16:02:54 	内存:27.18\27.22 	分页:21.93\21.96	>>> Hsr: Fail to create path for local format product   
+16:22:03 	内存:27.05\27.05 	分页:21.66\21.87	>>> Scit: Alg running for seconds: 0  
+16:41:03 	内存:27.07\27.07 	分页:21.71\21.71	>>> Scit: Alg running for seconds: 0  
+18:26:23 	内存:7.40\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+18:55:04 	内存:9.61\11.09 	分页:4.38\5.85	>>> Vil: Fail to create path for local format product   
+20:02:22 	内存:7.39\26.59 	分页:2.58\21.81	>>> Cr: Fail to create path for local format product   
+21:56:59 	内存:9.62\11.09 	分页:4.38\5.86	>>> Vil: Fail to create path for local format product   
+22:35:15 	内存:8.15\9.62 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   
+22:54:15 	内存:7.39\26.59 	分页:2.18\21.41	>>> Cr: Fail to create path for local format product   
+23:03:53 	内存:26.22\26.22 	分页:20.84\20.84	>>> Scit: Alg running for seconds: 0  
+23:32:29 	内存:8.14\9.62 	分页:2.91\4.39	>>> Et: Fail to create path for local format product   

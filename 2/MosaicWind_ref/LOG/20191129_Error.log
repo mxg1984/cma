@@ -1,0 +1,25 @@
+10:47:41 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:47:41 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData), path not found.
+10:47:41 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA), path not found.
+10:47:41 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA_V), path not found.
+10:47:41 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:47:48 >>> Fail calling DllRegisterServer !
+10:51:16 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:51:16 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData), path not found.
+10:51:16 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA), path not found.
+10:51:16 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA_V), path not found.
+10:51:16 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:51:21 >>> Fail calling DllRegisterServer !
+10:56:07 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:56:07 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData), path not found.
+10:56:07 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA), path not found.
+10:56:07 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA_V), path not found.
+10:56:07 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:56:47 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:56:47 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData), path not found.
+10:56:47 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\TempData\SMOSAICDATA), path not found.
+10:56:47 >>> Fail creating directory(Q:\20180814-HeibeiExample\prod0329\), path not found.
+10:57:49 >>> Fail calling DllRegisterServer !
+10:58:07 >>> Path(H:\QPE-CAMS\radardata\Z9577\) not found.
+10:58:07 >>> Path(H:\QPE-CAMS\radardata\Z9579\) not found.
+10:58:07 >>> Path(H:\QPE-CAMS\radardata\Z9580\) not found.
